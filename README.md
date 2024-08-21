@@ -2,7 +2,7 @@
 
 ---
 
-# Documentação do Software (markdown): TaskManager 
+# Documentação do Software (markdown): TaskManager*
 
 ## Índice
 
